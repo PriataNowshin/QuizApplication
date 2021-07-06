@@ -1,0 +1,9 @@
+"<html>"+
+        "1. Answer to the point" +"<br><br>" +
+        "2. Answer all 10 questions" +"<br><br>" +
+        "3. You will have 20 seconds for each question. Answer in time" +"<br><br>" +
+        "4. Do not get nervous" +"<br><br>" +
+        "5. Do not plagiarize" +"<br><br>" +
+        "6. Do not try to google it" +"<br><br>" +
+        "7. You will have 50-50 lifeline where 2 options will be excluded but you can use it only once. So be wise about it." +"<br><br>" +
+"<html>"
